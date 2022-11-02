@@ -7,8 +7,10 @@
 $ npm install
 ```
 <p>E preencher a chave da API na variável de ambiente</p>
-```javascript
+
+```
 // Atribuir a chave da API
 API_KEY=
 ```
+
 <p>A chave para a API pode ser obtida no site da API</p>
