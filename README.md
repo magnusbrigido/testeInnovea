@@ -13,4 +13,4 @@ $ npm install
 API_KEY=
 ```
 
-<p>A chave para a API pode ser obtida no site da API</p>
+<p>A chave pode ser obtida no site da API.</p>
